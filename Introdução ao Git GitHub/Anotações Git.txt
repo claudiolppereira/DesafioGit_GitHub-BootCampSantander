@@ -1,0 +1,1 @@
+Git é um terminal de gerenciamento de commits no GitHub
